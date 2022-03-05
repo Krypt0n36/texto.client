@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "texto-app",
+    "slug": "texto-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
