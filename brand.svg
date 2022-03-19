@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="104" viewBox="0 0 356 104">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1484 -584)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-1)">
+      <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1485 593)" fill="#fff" stroke="#498df3" stroke-width="5">
+        <path d="M35,0H51A35,35,0,0,1,86,35V51A35,35,0,0,1,51,86H0a0,0,0,0,1,0,0V35A35,35,0,0,1,35,0Z" stroke="none"/>
+        <path d="M35,2.5H51A32.5,32.5,0,0,1,83.5,35V51A32.5,32.5,0,0,1,51,83.5H5A2.5,2.5,0,0,1,2.5,81V35A32.5,32.5,0,0,1,35,2.5Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(9.481 10.453)">
+      <path id="Rectangle_6-2" data-name="Rectangle 6" d="M24,0H42A24,24,0,0,1,66,24V42A24,24,0,0,1,42,66H0a0,0,0,0,1,0,0V24A24,24,0,0,1,24,0Z" transform="translate(1484.519 592.547)" fill="#498df3"/>
+    </g>
+    <text id="Texto" transform="translate(1595 668)" fill="#07171e" font-size="90" font-family="Play-Bold, Play" font-weight="700"><tspan x="0" y="0">Texto</tspan></text>
+  </g>
+</svg>
